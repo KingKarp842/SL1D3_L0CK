@@ -3,6 +3,9 @@ This project is a simple 3D-printable slide lock designed to mount onto a door a
 
 I made this project as a fun CAD challenge and to practice designing a functional mechanical assembly.  I also wanted to keep my sister out of my room and didn't see any sliding locks that I liked online. The project required thinking through not only how the parts would look, but also how they would actually be assembled and used. One of the main challenges was designing the slider and knob so the mechanism could be assembled while still preventing the slider from falling out of the housing.
 
+<img width="3024" height="4032" alt="IMG_3084" src="https://github.com/user-attachments/assets/d8e6410c-b4df-4c63-bebe-39df2ff1e11f" />
+Finished Product
+
 <img width="767" height="510" alt="Screenshot 2026-06-21 001300" src="https://github.com/user-attachments/assets/e9539783-4fa9-4865-9ed6-3efff9a39d35" />
 <img width="931" height="711" alt="Screenshot 2026-06-21 001314" src="https://github.com/user-attachments/assets/e64c40e2-918b-4dd5-8306-11cf38faaa11" />
 Slider Assembly 
